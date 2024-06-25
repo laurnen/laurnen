@@ -3,15 +3,11 @@
 <h3 align="center">Second-year computer science student, future full stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c5/10/28/c51028dfc3743559eee9c01a273c7d55.gif">
 
-- 🌱 I’m currently learning **Swift, Javascript**
-
-- 💬 Ask me about **Game dev!**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **laurentan@u.northwestern.edu**
 
-- 📄 [My Current Resume](https://docs.google.com/document/d/1OnKjJbRZOXlZZOXv8IB0aOaNA0OhVPXYb4ahZFXjYcg/edit?usp=sharing)
-
-- ⚡ Fun fact **The "bum-bum" sound of your heart is made by your heart valves opening and closing!**
+- 📄 [My Current Resume](https://drive.google.com/file/d/1SubcUfUjlUBc8Ym0jou-SGu0iOu3zDM_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
