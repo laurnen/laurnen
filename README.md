@@ -1,13 +1,12 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFN7RerjiBYbw/profile-displaybackgroundimage-shrink_350_1400/0/1698812811431?e=1706745600&v=beta&t=WLW_ai8tDjWjag-eTQAdpJ-gsgkLhqjrAzOQhha_2LU)](https://laurnen.io)
 <h1 align="center">Hi! I'm Lauren ˚ ༘✶ ⋆｡˚𓆟</h1>
-<h3 align="center">Second-year computer science student, future full stack developer.</h3>
+<h3 align="center">Computer Science & Biology double major at Northwestern. Future full-stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c5/10/28/c51028dfc3743559eee9c01a273c7d55.gif">
 
 - 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **laurentan@u.northwestern.edu**
 
-- 📄 [My Current Resume](https://drive.google.com/file/d/1SubcUfUjlUBc8Ym0jou-SGu0iOu3zDM_/view?usp=drive_link)
+- 📄 [My Current Resume]([https://drive.google.com/file/d/1SubcUfUjlUBc8Ym0jou-SGu0iOu3zDM_/view?usp=drive_link](https://drive.google.com/file/d/1slBG9UPrt4vEI0VukkLM82LLfs50ZMZE/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
